@@ -3,9 +3,8 @@
 修改保存后提交到 GitHub，订阅端刷新即可拿到最新内容
 ====================================================
 
-（第 1 条，替换成你自己的内容）
-
-（第 2 条，替换成你自己的内容）
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%E6%96%B0%E5%8A%A0%E5%9D%A1%2BAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%E7%BE%8E%E5%9B%BD%2BCloudFlare%E8%8A%82%E7%82%B9
 
 （第 3 条，替换成你自己的内容）
 
